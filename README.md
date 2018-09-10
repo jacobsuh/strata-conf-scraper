@@ -1,2 +1,2 @@
 # strata-conf-scraper
-Scrapes the Strata 2018 New York conference list for company names and URLs. Unfortunatly the paid service that we use for conference lists resulted in a very wrong list. So instead of manually scraping the list online, I made this to do it for us.
+Scrapes the 2018 NY Strata Data Conference attendees list for company names and URLs. Unfortunatly the paid service that we use for conference lists resulted in a very wrong list. Instead of manually scraping the list online into Excel, I made this to do it for us.
